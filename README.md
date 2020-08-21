@@ -4,6 +4,7 @@ Data Science projects
 ## Data Science Project 1
 
 This project evaluates the dataset for [Broward County Airbnb data](http://insideairbnb.com/get-the-data.html)
+[Medium article for this project](https://medium.com/@ronda_lunn/analyzing-broward-county-airbnb-data-1562ad3f2456)
 
 The analysis attempts to answer the questions: 
 * What are the main features driving the price of a listing?
