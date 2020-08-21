@@ -21,6 +21,7 @@ The analysis is done in a Jupyter notebook with the following libraries:
 
 ## Files 
 * Data Science Project 1.ipynb - The Jupyter notebook containing the data analysis. The notebook is commented with the steps taken in the data collection, cleaning, analysis, modeling, and observations
+* listings.csv.gz - The data file
 
 ## The Data
 I imported the listings data into a Jupyter notebook and began to evaluate the data. Examining the date revealed 106 columns and 10858 rows.
